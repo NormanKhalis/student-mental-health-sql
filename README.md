@@ -1,1 +1,0 @@
-# student-mental-health-sql
