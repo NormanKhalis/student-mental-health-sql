@@ -53,9 +53,7 @@ ORDER BY stay DESC
 ## 🛠️ Tools Used
 
 - PostgreSQL
-- DataCamp Workspaces (Jupyter Notebook)
 
 ## 📁 Files
 
-- `notebook.ipynb` — Full analysis notebook
-- `Student_Guided_Datacamp.sql` — Final SQL query
+- `Student_Guided.sql` — Final SQL query
